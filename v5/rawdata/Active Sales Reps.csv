@@ -1,0 +1,11 @@
+Name,Street Address,City,State,Zip,Commission Rate,Rep Rate,Over Ride Rate,Over Ride Rep
+Katie Jarvis,510 E Harrison St Apt 607,Tampa,FL,33602,20,20,0,
+Jason Burke,12636 Matteson Ave Apt 207,Los Angeles,CA,90066,40,40,0,
+David Brown,332 SW Otter Place Run,Stuart,FL,34997,50,40,10,Jim Wall
+Maria Giacobbe,275 Bayshore Blvd Unit 803,Tampa,FL,33606,0,0,0,
+Kayla Hall,129 Lake Dr,Ocala,FL,34472,50,25,25,
+Amy Crawford,3551 Jade Lane,Mulberry,FL,33860,50,30,20,Jim Wall
+Myhanh Nguyen,19112 East Center Ave,Orange,CA,92869,50,40,10,Jason Burke
+Joe King,,Tampa,FL,,50,25,25,Jim Wall
+Nick Ribaudo ,3312 Duncan Ave ,Sarasota ,FL ,34239,50,20,30,Jim Wall 
+Jong Bae,3772 Hampstead Drive ,Sylvania ,OH,43560,30,20,10,Jim Wall 

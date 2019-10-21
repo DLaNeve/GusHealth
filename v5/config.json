@@ -1,0 +1,65 @@
+{
+    "//": "SEND STATUS EMAIL",
+    
+"smtpserver":    "smtp.gmail.com",
+    
+"smtpport":      "587",
+    
+"smtplogon":     "don.laneve@gmail.com",
+    
+"smtppwd":       "19Ijctsily!83",
+    
+"from":          "Data Converter",
+    
+"recipient1":    "don.laneve@gmail.com",
+    
+"subject1":      "Status",
+    
+"body1":         "GH email has been processed",
+
+    
+"//": "RETRIEVE EMAIL WITH ATTACHMENT FROM THE LAB",
+    
+"imapserver":    "imap.gmail.com",
+    
+"imapport":      "993",
+    
+"imaplogon":     "test@gushealth.com",
+    
+"imappwd":	 "GusHealth!",
+    
+"imapfrom":      "sean.laneve@painteq.com",
+    
+"mail_chk_freq": "20",
+    
+"data_dir":       "../GusHealthData",
+    
+"attach_keyword": "MARIA",
+
+    
+"//": "SEND CSV ATTACHMENT TO CLICDATA",
+    
+"smtpserver2":    "smtp.gmail.com",
+    
+"smtpport2":      "587",
+    
+"smtplogon2":     "reports@gushealth.com",
+    
+"smtppwd2":       "GusHealth!",
+    
+"from2":          "reports@gushealth.com",
+    
+"recipient2":     "dataloader@clicdata.com",
+    
+"subject2":       "New Samples Test",
+    
+"body2":          "@token=cf11e08c-68c2-4721-9ad0-9d01fece797f \n@headers=true \n@process=append",
+    
+"query_file":     "Samples.csv"
+
+
+
+
+
+
+}

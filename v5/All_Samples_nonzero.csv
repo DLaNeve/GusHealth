@@ -1,0 +1,831 @@
+Date,Practice,Doctor,Samples
+2017-05-19,Advanced Pain,"Jones, G",3
+2017-06-14,Advanced Pain,"Jones, G",3
+2017-06-26,Advanced Pain,"Jones, G",4
+2017-07-17,Advanced Pain,"Jones, G",4
+2017-07-27,Advanced Pain,"Jones, G",2
+2017-07-31,Advanced Pain,"Jones, G",1
+2017-08-02,Advanced Pain,"Jones, G",7
+2017-08-08,Advanced Pain,"Jones, G",2
+2017-08-11,Advanced Pain,"Jones, G",3
+2017-08-29,Advanced Pain,"Jones, G",5
+2017-09-12,Advanced Pain,"Jones, G",1
+2017-10-11,Advanced Pain,"Jones, G",6
+2017-10-13,Advanced Pain,"Jones, G",5
+2017-10-16,Advanced Pain,"Jones, G",1
+2017-10-20,Advanced Pain,"Jones, G",1
+2017-10-23,Advanced Pain,"Jones, G",4
+2017-10-25,Advanced Pain,"Jones, G",2
+2017-10-26,Advanced Pain,"Jones, G",6
+2017-10-30,Advanced Pain,"Jones, G",1
+2017-11-02,Advanced Pain,"Jones, G",7
+2017-11-14,Advanced Pain,"Jones, G",1
+2017-12-19,Advanced Pain,"Jones, G",3
+2018-01-11,Advanced Pain,"Jones, G",6
+2017-05-09,ARC,"Anderson, S",2
+2017-06-01,ARC,"Anderson, S",6
+2017-06-29,ARC,"Anderson, S",5
+2017-07-06,ARC,"Anderson, S",5
+2017-07-21,ARC,"Anderson, S",3
+2017-08-03,ARC,"Anderson, S",1
+2017-08-04,ARC,"Anderson, S",2
+2017-08-11,ARC,"Anderson, S",5
+2017-08-31,ARC,"Anderson, S",3
+2017-09-05,ARC,"Anderson, S",6
+2017-09-26,ARC,"Anderson, S",5
+2017-10-06,ARC,"Anderson, S",3
+2017-10-13,ARC,"Anderson, S",5
+2017-10-26,ARC,"Anderson, S",3
+2017-11-01,ARC,"Anderson, S",3
+2017-11-14,ARC,"Anderson, S",4
+2018-01-02,ARC,"Anderson, S",5
+2018-01-10,ARC,"Anderson, S",1
+2018-02-01,ARC,"Anderson, S",2
+2018-03-05,ARC,"Anderson, S",1
+2018-03-07,ARC,"Anderson, S",1
+2018-03-12,ARC,"Anderson, S",1
+2018-03-19,ARC,"Anderson, S",7
+2018-03-22,ARC,"Anderson, S",3
+2018-03-28,ARC,"Anderson, S",5
+2018-04-06,ARC,"Anderson, S",5
+2018-04-18,ARC,"Anderson, S",6
+2018-04-27,ARC,"Anderson, S",6
+2016-10-31,Bain,Ramirez,10
+2016-11-08,Bain,Ramirez,25
+2016-11-10,Bain,Powers,15
+2016-11-10,Bain,Ramirez,13
+2016-11-14,Bain,Powers,3
+2016-11-14,Bain,Ramirez,10
+2016-11-15,Bain,Powers,3
+2016-11-15,Bain,Ramirez,9
+2016-11-16,Bain,Powers,7
+2016-11-16,Bain,Ramirez,3
+2016-11-18,Bain,Powers,7
+2016-11-21,Bain,Powers,4
+2016-11-21,Bain,Ramirez,1
+2016-11-23,Bain,Powers,1
+2016-12-01,Bain,Powers,1
+2016-12-01,Bain,Ramirez,4
+2016-12-05,Bain,Powers,1
+2016-12-05,Bain,Ramirez,4
+2016-12-08,Bain,Ramirez,16
+2016-12-12,Bain,Powers,4
+2016-12-12,Bain,Ramirez,8
+2016-12-19,Bain,Powers,10
+2016-12-19,Bain,Ramirez,14
+2016-12-22,Bain,Ramirez,31
+2016-12-27,Bain,Ramirez,10
+2017-01-03,Bain,Ramirez,19
+2017-01-05,Bain,Ramirez,6
+2017-01-16,Bain,Ramirez,35
+2017-01-19,Bain,Ramirez,21
+2017-01-23,Bain,Ramirez,1
+2017-01-24,Bain,Ramirez,13
+2017-01-30,Bain,Ramirez,28
+2017-02-06,Bain,Ramirez,23
+2017-02-10,Bain,Ramirez,26
+2017-02-23,Bain,Ramirez,39
+2017-02-24,Bain,Ramirez,18
+2017-03-03,Bain,Ramirez,48
+2017-03-08,Bain,Ramirez,24
+2017-03-10,Bain,Ramirez,14
+2017-03-15,Bain,Ramirez,6
+2017-03-17,Bain,Ramirez,15
+2017-03-22,Bain,Ramirez,18
+2017-03-24,Bain,Ramirez,9
+2017-03-30,Bain,Ramirez,11
+2017-03-31,Bain,Ramirez,9
+2017-04-05,Bain,Ramirez,13
+2017-04-07,Bain,Ramirez,15
+2017-04-12,Bain,Ramirez,12
+2017-04-14,Bain,Ramirez,18
+2017-04-20,Bain,Ramirez,5
+2017-04-21,Bain,Ramirez,10
+2017-04-26,Bain,Ramirez,13
+2017-04-28,Bain,Ramirez,5
+2017-05-03,Bain,Ramirez,10
+2017-05-05,Bain,Ramirez,6
+2017-05-10,Bain,Ramirez,36
+2017-05-12,Bain,Ramirez,16
+2017-05-17,Bain,Ramirez,24
+2017-05-19,Bain,Ramirez,6
+2017-05-24,Bain,Ramirez,13
+2017-05-26,Bain,Ramirez,16
+2017-05-31,Bain,Ramirez,12
+2017-06-02,Bain,Ramirez,6
+2017-06-07,Bain,Ramirez,6
+2017-06-09,Bain,Ramirez,14
+2017-06-14,Bain,Ramirez,18
+2017-06-16,Bain,Ramirez,6
+2017-06-21,Bain,Ramirez,18
+2017-06-23,Bain,Ramirez,6
+2017-06-28,Bain,Ramirez,19
+2017-07-07,Bain,Ramirez,3
+2017-07-12,Bain,Ramirez,6
+2017-07-14,Bain,Ramirez,4
+2017-07-19,Bain,Ramirez,12
+2017-07-21,Bain,Ramirez,9
+2017-07-26,Bain,Ramirez,9
+2017-07-28,Bain,Ramirez,5
+2017-08-02,Bain,Ramirez,19
+2017-08-09,Bain,Ramirez,6
+2017-08-16,Bain,Ramirez,1
+2017-09-27,Bain,Ramirez,1
+2017-11-01,Bain,Ramirez,8
+2017-11-08,Bain,Ramirez,6
+2017-11-14,Bain,Ramirez,4
+2017-11-20,Bain,Ramirez,4
+2017-12-06,Bain,Ramirez,8
+2017-12-12,Bain,Ramirez,12
+2017-12-14,Bain,Ramirez,6
+2017-12-22,Bain,Ramirez,3
+2017-12-28,Bain,Ramirez,6
+2018-01-10,Bain,Ramirez,8
+2018-01-15,Bain,Ramirez,5
+2018-01-16,Bain,Ramirez,1
+2018-01-19,Bain,Ramirez,6
+2018-01-22,Bain,Ramirez,6
+2018-01-25,Bain,Ramirez,5
+2018-02-02,Bain,Ramirez,7
+2018-02-09,Bain,Ramirez,7
+2018-02-21,Bain,Ramirez,7
+2018-02-26,Bain,Ramirez,6
+2018-03-01,Bain,Ramirez,9
+2018-03-05,Bain,Ramirez,3
+2018-03-09,Bain,Ramirez,4
+2018-03-14,Bain,Ramirez,12
+2018-03-19,Bain,Ramirez,5
+2018-03-29,Bain,Ramirez,8
+2018-04-06,Bain,Ramirez,5
+2018-04-16,Bain,Ramirez,8
+2018-04-20,Bain,Ramirez,10
+2018-04-26,Bain,Ramirez,1
+2018-04-30,Bain,Ramirez,12
+2018-05-03,Bain,Ramirez,7
+2018-05-04,Bain,Ramirez,1
+2018-03-26,Bayview Medical,"Arias, Carlos",1
+2018-04-16,Bayview Medical,"Arias, Carlos",1
+2018-04-23,Bayview Medical,"Arias, Carlos",2
+2018-04-30,Bayview Medical,"Arias, Carlos",2
+2018-05-07,Bayview Medical,"Arias, Carlos",6
+2018-02-06,Bee Ridge Family,Gupta,6
+2018-02-13,Bee Ridge Family,Gupta,1
+2018-02-19,Bee Ridge Family,Gupta,8
+2018-02-22,Bee Ridge Family,Gupta,2
+2018-02-26,Bee Ridge Family,Gupta,2
+2018-03-05,Bee Ridge Family,Gupta,3
+2018-03-07,Bee Ridge Family,Gupta,2
+2018-03-13,Bee Ridge Family,Gupta,2
+2018-03-14,Bee Ridge Family,Gupta,4
+2018-03-19,Bee Ridge Family,Gupta,7
+2018-03-21,Bee Ridge Family,Gupta,6
+2018-03-26,Bee Ridge Family,Gupta,6
+2018-03-28,Bee Ridge Family,Gupta,1
+2018-04-02,Bee Ridge Family,Gupta,5
+2018-04-04,Bee Ridge Family,Gupta,3
+2018-04-10,Bee Ridge Family,Gupta,3
+2018-04-11,Bee Ridge Family,Gupta,6
+2018-04-16,Bee Ridge Family,Gupta,3
+2018-04-18,Bee Ridge Family,Gupta,1
+2018-04-25,Bee Ridge Family,Gupta,3
+2018-04-30,Bee Ridge Family,Gupta,3
+2018-05-07,Bee Ridge Family,Gupta,2
+2018-02-06,Behavioral Connect,"Ellis, Christine",10
+2018-02-07,Behavioral Connect,"Ellis, Christine",14
+2018-02-09,Behavioral Connect,"Ellis, Christine",11
+2018-02-13,Behavioral Connect,"Ellis, Christine",1
+2018-02-14,Behavioral Connect,"Ellis, Christine",23
+2018-02-15,Behavioral Connect,"Ellis, Christine",1
+2018-02-19,Behavioral Connect,"Ellis, Christine",7
+2017-09-29,Christ Medical,Tawfik,28
+2017-10-06,Christ Medical,Tawfik,13
+2017-10-18,Christ Medical,Syverson,12
+2017-10-18,Christ Medical,Tawfik,15
+2018-03-01,Christ Medical,Tawfik,3
+2017-06-02,Convenient Med,Patwari,1
+2017-06-19,Convenient Med,Patwari,1
+2017-08-04,Convenient Med,Patwari,1
+2017-08-21,Convenient Med,Patwari,1
+2017-08-24,Convenient Med,Patwari,2
+2017-09-15,Convenient Med,Patwari,1
+2017-10-02,Convenient Med,Patwari,2
+2017-10-10,Dean Medical,"Dean, Byron",9
+2017-10-16,Dean Medical,"Dean, Byron",6
+2017-10-25,Dean Medical,"Dean, Byron",4
+2017-11-07,Dean Medical,"Dean, Byron",8
+2017-11-08,Dean Medical,"Dean, Byron",2
+2017-11-14,Dean Medical,"Dean, Byron",1
+2017-11-20,Dean Medical,"Dean, Byron",4
+2017-11-22,Dean Medical,"Dean, Byron",5
+2017-12-07,Dean Medical,"Dean, Byron",2
+2017-12-15,Dean Medical,"Dean, Byron",1
+2017-12-21,Dean Medical,"Dean, Byron",6
+2018-01-04,Dean Medical,"Dean, Byron",1
+2018-02-05,Dean Medical,"Dean, Byron",3
+2018-02-06,Dean Medical,"Dean, Byron",2
+2018-02-12,Dean Medical,"Dean, Byron",2
+2018-02-14,Dean Medical,"Dean, Byron",3
+2018-02-28,Dean Medical,"Dean, Byron",1
+2018-03-05,Dean Medical,"Dean, Byron",2
+2018-03-12,Dean Medical,"Dean, Byron",3
+2018-03-20,Dean Medical,"Dean, Byron",1
+2018-03-22,Dean Medical,"Dean, Byron",2
+2018-04-05,Dean Medical,"Dean, Byron",3
+2018-04-16,Dean Medical,"Dean, Byron",3
+2018-04-18,Dean Medical,"Dean, Byron",2
+2018-02-16,Desert Pain,"Lai, A",14
+2018-02-21,Desert Pain,"Lai, A",8
+2018-03-01,Desert Pain,"Lai, A",6
+2018-03-07,Desert Pain,"Lai, A",6
+2018-03-08,Desert Pain,"Lai, A",2
+2018-03-09,Desert Pain,"Lai, A",8
+2018-03-14,Desert Pain,"Lai, A",17
+2018-03-16,Desert Pain,"Lai, A",1
+2018-03-21,Desert Pain,"Lai, A",11
+2018-03-28,Desert Pain,"Lai, A",6
+2018-03-30,Desert Pain,"Lai, A",7
+2018-04-04,Desert Pain,"Lai, A",8
+2018-04-06,Desert Pain,"Lai, A",8
+2018-04-11,Desert Pain,"Lai, A",5
+2018-04-12,Desert Pain,"Lai, A",5
+2018-04-17,Desert Pain,"Lai, A",7
+2018-04-18,Desert Pain,"Lai, A",7
+2018-04-19,Desert Pain,"Lai, A",6
+2018-04-25,Desert Pain,"Lai, A",6
+2018-04-26,Desert Pain,"Lai, A",8
+2018-05-01,Desert Pain,"Lai, A",4
+2017-09-22,Dr. Jay's Urgent,"Jackson, Burke",11
+2017-09-27,Dr. Jay's Urgent,"Jackson, Burke",8
+2017-09-29,Dr. Jay's Urgent,"Jackson, Burke",3
+2017-10-06,Dr. Jay's Urgent,"Jackson, Burke",7
+2017-10-13,Dr. Jay's Urgent,"Jackson, Burke",5
+2017-10-18,Dr. Jay's Urgent,"Jackson, Burke",6
+2017-10-26,Dr. Jay's Urgent,"Jackson, Burke",5
+2017-11-01,Dr. Jay's Urgent,"Jackson, Burke",4
+2017-11-08,Dr. Jay's Urgent,"Jackson, Burke",8
+2017-11-14,Dr. Jay's Urgent,"Jackson, Burke",2
+2017-11-15,Dr. Jay's Urgent,"Jackson, Burke",8
+2017-11-29,Dr. Jay's Urgent,"Jackson, Burke",5
+2017-12-06,Dr. Jay's Urgent,"Jackson, Burke",7
+2017-12-07,Dr. Jay's Urgent,"Jackson, Burke",1
+2017-12-14,Dr. Jay's Urgent,"Jackson, Burke",5
+2017-12-19,Dr. Jay's Urgent,"Jackson, Burke",8
+2017-12-21,Dr. Jay's Urgent,"Jackson, Burke",4
+2017-12-27,Dr. Jay's Urgent,"Jackson, Burke",4
+2018-01-03,Dr. Jay's Urgent,"Jackson, Burke",3
+2018-01-10,Dr. Jay's Urgent,"Jackson, Burke",5
+2018-01-17,Dr. Jay's Urgent,"Jackson, Burke",6
+2018-01-24,Dr. Jay's Urgent,"Jackson, Burke",5
+2018-01-31,Dr. Jay's Urgent,"Jackson, Burke",5
+2018-02-07,Dr. Jay's Urgent,"Jackson, Burke",6
+2018-02-14,Dr. Jay's Urgent,"Jackson, Burke",7
+2018-02-15,Dr. Jay's Urgent,"Jackson, Burke",1
+2018-02-21,Dr. Jay's Urgent,"Jackson, Burke",9
+2018-03-01,Dr. Jay's Urgent,"Jackson, Burke",4
+2018-03-06,Dr. Jay's Urgent,"Jackson, Burke",7
+2018-03-15,Dr. Jay's Urgent,"Jackson, Burke",14
+2018-03-22,Dr. Jay's Urgent,"Jackson, Burke",3
+2018-03-28,Dr. Jay's Urgent,"Jackson, Burke",9
+2018-04-05,Dr. Jay's Urgent,"Jackson, Burke",13
+2018-04-13,Dr. Jay's Urgent,"Jackson, Burke",17
+2018-04-19,Dr. Jay's Urgent,"Jackson, Burke",10
+2018-04-26,Dr. Jay's Urgent,"Jackson, Burke",12
+2018-04-27,Dr. Jay's Urgent,"Jackson, Burke",1
+2018-05-03,Dr. Jay's Urgent,"Jackson, Burke",19
+2018-03-20,Dr. Joseph Millin,"Foster, Jacquelin",1
+2018-03-26,Dr. Joseph Millin,"Foster, Jacquelin",3
+2018-04-10,Dr. Joseph Millin,"Foster, Jacquelin",2
+2018-01-26,Dr. Kevin Trinh,Trinh,1
+2018-02-06,Dr. Kevin Trinh,Trinh,1
+2018-02-21,Dr. Kevin Trinh,Trinh,1
+2018-03-13,Dr. Kevin Trinh,Trinh,2
+2018-04-03,Dr. Kevin Trinh,Trinh,1
+2018-04-17,Dr. Kevin Trinh,Trinh,1
+2018-04-24,Dr. Kevin Trinh,Trinh,1
+2018-02-08,Dr. Rick Simovitz,Simovitz,1
+2018-02-14,Dr. Rick Simovitz,Simovitz,3
+2018-03-07,Dr. Rick Simovitz,Simovitz,2
+2018-03-14,Dr. Rick Simovitz,Simovitz,1
+2018-03-30,Dr. Rick Simovitz,Simovitz,1
+2018-04-04,Dr. Rick Simovitz,Simovitz,1
+2018-04-18,Dr. Rick Simovitz,Simovitz,1
+2017-01-10,Elite,Isenalumhe,4
+2017-01-31,Elite,Isenalumhe,2
+2017-02-20,Elite,Isenalumhe,5
+2017-02-24,Elite,Isenalumhe,4
+2017-03-02,Elite,Isenalumhe,9
+2017-03-10,Elite,Isenalumhe,6
+2017-03-17,Elite,Isenalumhe,7
+2017-03-24,Elite,Isenalumhe,9
+2017-03-30,Elite,Isenalumhe,7
+2017-03-31,Elite,Isenalumhe,2
+2017-04-05,Elite,Isenalumhe,8
+2017-04-07,Elite,Isenalumhe,4
+2017-04-14,Elite,Isenalumhe,10
+2017-04-21,Elite,Isenalumhe,15
+2017-04-28,Elite,Isenalumhe,9
+2017-05-05,Elite,Isenalumhe,9
+2017-05-12,Elite,Isenalumhe,4
+2017-05-19,Elite,Isenalumhe,7
+2017-05-26,Elite,Isenalumhe,7
+2017-05-30,Elite,Isenalumhe,2
+2017-06-02,Elite,Isenalumhe,3
+2017-06-07,Elite,Isenalumhe,14
+2017-06-09,Elite,Isenalumhe,4
+2017-06-16,Elite,Isenalumhe,19
+2017-06-27,Elite,Isenalumhe,21
+2017-06-30,Elite,Isenalumhe,12
+2017-07-07,Elite,Isenalumhe,2
+2017-07-12,Elite,Isenalumhe,1
+2017-07-14,Elite,Isenalumhe,5
+2017-07-21,Elite,Isenalumhe,4
+2017-07-28,Elite,Isenalumhe,4
+2017-08-08,Elite,Isenalumhe,1
+2017-08-11,Elite,Isenalumhe,6
+2017-08-22,Elite,Isenalumhe,1
+2017-08-25,Elite,Isenalumhe,5
+2017-09-01,Elite,Isenalumhe,4
+2017-09-06,Elite,Isenalumhe,2
+2017-09-06,Elite,"Toledo, Delia",1
+2017-09-15,Elite,Isenalumhe,2
+2017-09-22,Elite,Isenalumhe,2
+2017-09-29,Elite,Isenalumhe,7
+2017-10-03,Elite,Isenalumhe,1
+2017-10-06,Elite,Isenalumhe,7
+2017-10-13,Elite,Isenalumhe,12
+2017-10-17,Elite,Isenalumhe,1
+2017-10-20,Elite,Isenalumhe,12
+2017-10-27,Elite,Isenalumhe,9
+2017-11-03,Elite,Isenalumhe,12
+2017-11-10,Elite,Isenalumhe,8
+2017-11-17,Elite,Isenalumhe,7
+2017-11-27,Elite,Isenalumhe,7
+2017-12-04,Elite,Isenalumhe,8
+2017-12-15,Elite,Isenalumhe,2
+2018-01-12,Elite,Isenalumhe,14
+2018-01-17,Elite,Isenalumhe,5
+2018-01-22,Elite,Isenalumhe,19
+2018-01-25,Elite,Isenalumhe,10
+2018-01-29,Elite,Isenalumhe,5
+2018-02-05,Elite,Isenalumhe,16
+2018-02-07,Elite,Isenalumhe,9
+2018-02-12,Elite,Isenalumhe,12
+2018-02-14,Elite,Isenalumhe,12
+2018-02-16,Elite,Isenalumhe,7
+2018-02-20,Elite,Isenalumhe,1
+2018-02-23,Elite,Isenalumhe,12
+2018-03-09,Elite,Isenalumhe,8
+2018-03-20,Elite,Isenalumhe,1
+2018-04-02,Elite,Isenalumhe,1
+2018-04-03,Elite,Isenalumhe,2
+2018-04-09,Elite,Isenalumhe,1
+2018-04-10,Elite,Isenalumhe,1
+2018-04-12,Elite,Isenalumhe,2
+2018-04-13,Elite,Isenalumhe,2
+2018-04-17,Elite,Isenalumhe,1
+2018-04-24,Elite,Isenalumhe,1
+2018-04-30,Elite,Isenalumhe,1
+2018-02-16,Family Medical,Griggs,5
+2018-03-16,Family Medical,Griggs,1
+2017-08-23,Gulf Coast,Baga,1
+2017-08-23,Gulf Coast,Mascola,11
+2017-08-23,Gulf Coast,"Reddy, Dhee",2
+2017-08-29,Gulf Coast,Baga,1
+2017-08-30,Gulf Coast,Mascola,16
+2017-08-30,Gulf Coast,"Reddy, Dhee",2
+2017-09-01,Gulf Coast,Guitierrez,1
+2017-09-05,Gulf Coast,Fraser,1
+2017-09-05,Gulf Coast,Mascola,12
+2017-09-05,Gulf Coast,"Reddy, Dhee",2
+2017-09-08,Gulf Coast,Mascola,9
+2017-09-08,Gulf Coast,"Reddy, Dhee",4
+2017-09-15,Gulf Coast,Guitierrez,1
+2017-09-18,Gulf Coast,Baga,1
+2017-09-18,Gulf Coast,Mascola,3
+2017-09-18,Gulf Coast,"Reddy, Dhee",2
+2017-09-20,Gulf Coast,"Reddy, Dhee",1
+2017-09-29,Gulf Coast,Mascola,5
+2017-09-29,Gulf Coast,"Reddy, Dhee",3
+2017-10-05,Gulf Coast,Mascola,4
+2017-10-05,Gulf Coast,"Reddy, Dhee",3
+2017-10-10,Gulf Coast,Mascola,4
+2017-10-10,Gulf Coast,"Reddy, Dhee",1
+2017-10-12,Gulf Coast,Baga,2
+2017-10-23,Gulf Coast,Guiterrez,1
+2017-10-24,Gulf Coast,Mascola,13
+2017-10-24,Gulf Coast,"Reddy, Dhee",10
+2017-10-30,Gulf Coast,Aguila,1
+2017-10-30,Gulf Coast,Mascola,5
+2017-10-30,Gulf Coast,"Reddy, Dhee",5
+2017-10-31,Gulf Coast,Guiterrez,1
+2017-11-06,Gulf Coast,Mascola,9
+2017-11-06,Gulf Coast,"Reddy, Dhee",5
+2017-11-09,Gulf Coast,Baga,1
+2017-11-13,Gulf Coast,Aguila,1
+2017-11-13,Gulf Coast,Mascola,13
+2017-11-13,Gulf Coast,"Reddy, Dhee",3
+2017-11-20,Gulf Coast,Mascola,1
+2017-11-20,Gulf Coast,"Reddy, Dhee",2
+2017-11-20,Gulf Coast,Sallapuri,1
+2017-11-27,Gulf Coast,Mascola,1
+2017-11-27,Gulf Coast,"Reddy, Dhee",4
+2017-12-11,Gulf Coast,Mascola,3
+2017-12-11,Gulf Coast,"Reddy, Dhee",2
+2017-12-11,Gulf Coast,Sallapuri,1
+2017-12-11,Gulf Coast,Whapshare,2
+2017-12-15,Gulf Coast,Mascola,1
+2017-12-18,Gulf Coast,Aguila,3
+2017-12-18,Gulf Coast,Baga,1
+2017-12-18,Gulf Coast,"Walsh, C",1
+2018-01-12,Gulf Coast,Aguila,2
+2018-01-12,Gulf Coast,Baga,1
+2018-01-12,Gulf Coast,Mascola,1
+2018-01-12,Gulf Coast,"Reddy, Dhee",2
+2018-01-29,Gulf Coast,Aguila,13
+2018-01-29,Gulf Coast,"Reddy, Dhee",5
+2018-02-14,Gulf Coast,Fraser,1
+2018-02-14,Gulf Coast,Mascola,3
+2018-02-14,Gulf Coast,Sallapuri,1
+2018-02-21,Gulf Coast,Aguila,11
+2018-02-21,Gulf Coast,Baga,2
+2018-02-21,Gulf Coast,Mascola,1
+2018-02-21,Gulf Coast,"Walsh, C",1
+2018-03-06,Gulf Coast,"Reddy, Dhee",5
+2018-03-15,Gulf Coast,Aguila,14
+2018-03-15,Gulf Coast,Sallapuri,1
+2018-03-16,Gulf Coast,"Reddy, Dhee",8
+2018-04-16,Gulf Coast,Aguila,7
+2018-04-16,Gulf Coast,Baga,1
+2018-04-16,Gulf Coast,Fraser,1
+2018-04-16,Gulf Coast,"Gutierrez, Lillana",1
+2018-04-16,Gulf Coast,Sallapuri,1
+2018-04-18,Gulf Coast,"Reddy, Dhee",3
+2018-04-20,Gulf Coast,Aguila,1
+2018-04-27,Gulf Coast,Sallapuri,6
+2018-05-02,Gulf Coast,Fraser,5
+2018-05-02,Gulf Coast,Whapshare,1
+2018-05-04,Gulf Coast,Aguila,3
+2018-05-04,Gulf Coast,Baga,2
+2018-05-04,Gulf Coast,"Gutierrez, Lillana",2
+2018-05-04,Gulf Coast,"Reddy, Dhee",3
+2018-05-07,Gulf Coast,Baga,3
+2018-02-19,Harbor Behavorial,Dood,1
+2018-02-20,Harbor Behavorial,Dood,3
+2018-02-21,Harbor Behavorial,"Ellis, Christine",18
+2018-02-22,Harbor Behavorial,Dood,1
+2018-02-22,Harbor Behavorial,"Ellis, Christine",2
+2018-02-23,Harbor Behavorial,"Ellis, Christine",10
+2018-02-26,Harbor Behavorial,Dood,2
+2018-02-26,Harbor Behavorial,"Ellis, Christine",7
+2018-02-27,Harbor Behavorial,Dood,3
+2018-02-28,Harbor Behavorial,"Ellis, Christine",10
+2018-03-01,Harbor Behavorial,Dood,6
+2018-03-01,Harbor Behavorial,"Ellis, Christine",16
+2018-03-02,Harbor Behavorial,Dood,6
+2018-03-05,Harbor Behavorial,Dood,1
+2018-03-05,Harbor Behavorial,"Ellis, Christine",11
+2018-03-06,Harbor Behavorial,Dood,3
+2018-03-07,Harbor Behavorial,"Ellis, Christine",8
+2018-03-08,Harbor Behavorial,Dood,5
+2018-03-12,Harbor Behavorial,"Ellis, Christine",11
+2018-03-13,Harbor Behavorial,Dood,11
+2018-03-14,Harbor Behavorial,"Ellis, Christine",10
+2018-03-15,Harbor Behavorial,Dood,3
+2018-03-16,Harbor Behavorial,Dood,3
+2018-03-19,Harbor Behavorial,Dood,4
+2018-03-19,Harbor Behavorial,"Ellis, Christine",28
+2018-03-20,Harbor Behavorial,Dood,4
+2018-03-20,Harbor Behavorial,"Ellis, Christine",1
+2018-03-21,Harbor Behavorial,"Ellis, Christine",2
+2018-03-26,Harbor Behavorial,Dood,4
+2018-03-26,Harbor Behavorial,"Ellis, Christine",16
+2018-03-26,Harbor Behavorial,"Sadehh, A",9
+2018-03-26,Harbor Behavorial,"Tausif, Far",7
+2018-03-27,Harbor Behavorial,Dood,12
+2018-03-27,Harbor Behavorial,"Sadehh, A",10
+2018-03-27,Harbor Behavorial,"Tausif, Far",2
+2018-03-29,Harbor Behavorial,Dood,5
+2018-03-29,Harbor Behavorial,"Ellis, Christine",1
+2018-03-29,Harbor Behavorial,"Sadehh, A",13
+2018-03-29,Harbor Behavorial,"Tausif, Far",8
+2018-03-30,Harbor Behavorial,"Sadehh, A",1
+2018-04-02,Harbor Behavorial,Dood,5
+2018-04-02,Harbor Behavorial,"Sadehh, A",6
+2018-04-02,Harbor Behavorial,"Tausif, Far",1
+2018-04-03,Harbor Behavorial,Dood,5
+2018-04-03,Harbor Behavorial,"Ellis, Christine",1
+2018-04-04,Harbor Behavorial,"Ellis, Christine",6
+2018-04-04,Harbor Behavorial,"Sadehh, A",4
+2018-04-04,Harbor Behavorial,"Tausif, Far",9
+2018-04-05,Harbor Behavorial,Dood,3
+2018-04-05,Harbor Behavorial,"Ellis, Christine",8
+2018-04-06,Harbor Behavorial,Dood,11
+2018-04-06,Harbor Behavorial,"Sadehh, A",8
+2018-04-06,Harbor Behavorial,"Tausif, Far",10
+2018-04-09,Harbor Behavorial,Dood,2
+2018-04-09,Harbor Behavorial,"Ellis, Christine",18
+2018-04-10,Harbor Behavorial,"Ellis, Christine",1
+2018-04-10,Harbor Behavorial,"Sadehh, A",4
+2018-04-10,Harbor Behavorial,"Tausif, Far",10
+2018-04-11,Harbor Behavorial,Dood,8
+2018-04-11,Harbor Behavorial,"Sadehh, A",9
+2018-04-11,Harbor Behavorial,"Tausif, Far",12
+2018-04-12,Harbor Behavorial,Dood,4
+2018-04-12,Harbor Behavorial,"Tausif, Far",2
+2018-04-13,Harbor Behavorial,"Ellis, Christine",15
+2018-04-16,Harbor Behavorial,Dood,8
+2018-04-16,Harbor Behavorial,"Sadehh, A",13
+2018-04-16,Harbor Behavorial,"Tausif, Far",11
+2018-04-17,Harbor Behavorial,"Ellis, Christine",1
+2018-04-17,Harbor Behavorial,"Sadehh, A",2
+2018-04-18,Harbor Behavorial,"Sadehh, A",12
+2018-04-18,Harbor Behavorial,"Tausif, Far",11
+2018-04-19,Harbor Behavorial,Dood,8
+2018-04-19,Harbor Behavorial,"Ellis, Christine",10
+2018-04-19,Harbor Behavorial,"Sadehh, A",1
+2018-04-19,Harbor Behavorial,"Tausif, Far",3
+2018-04-20,Harbor Behavorial,"Sadehh, A",12
+2018-04-20,Harbor Behavorial,"Tausif, Far",10
+2018-04-23,Harbor Behavorial,Dood,3
+2018-04-23,Harbor Behavorial,"Sadehh, A",6
+2018-04-23,Harbor Behavorial,"Tausif, Far",3
+2018-04-24,Harbor Behavorial,Dood,9
+2018-04-24,Harbor Behavorial,"Sadehh, A",12
+2018-04-24,Harbor Behavorial,"Tausif, Far",9
+2018-04-25,Harbor Behavorial,Dood,6
+2018-04-25,Harbor Behavorial,"Tausif, Far",1
+2018-04-26,Harbor Behavorial,Dood,4
+2018-04-26,Harbor Behavorial,"Ellis, Christine",15
+2018-04-27,Harbor Behavorial,"Tausif, Far",13
+2018-04-30,Harbor Behavorial,Dood,4
+2018-04-30,Harbor Behavorial,"Sadehh, A",7
+2018-04-30,Harbor Behavorial,"Tausif, Far",13
+2018-05-01,Harbor Behavorial,"Sadehh, A",9
+2018-05-01,Harbor Behavorial,"Tausif, Far",2
+2018-05-02,Harbor Behavorial,"Tausif, Far",8
+2018-05-04,Harbor Behavorial,Dood,7
+2018-05-04,Harbor Behavorial,"Ellis, Christine",11
+2018-05-04,Harbor Behavorial,"Tausif, Far",1
+2018-05-07,Harbor Behavorial,"Sadehh, A",8
+2018-05-07,Harbor Behavorial,"Tausif, Far",18
+2017-08-03,Inner Balance,"Hinds, D",2
+2017-08-24,Inner Balance,"Hinds, D",1
+2017-08-28,Inner Balance,"Hinds, D",1
+2017-08-30,Inner Balance,"Hinds, D",1
+2017-09-07,Inner Balance,"Hinds, D",1
+2017-09-22,Inner Balance,"Hinds, D",1
+2017-09-28,Inner Balance,"Hinds, D",1
+2017-09-29,Inner Balance,"Hinds, D",1
+2017-10-06,Inner Balance,Hinds,1
+2017-10-16,Inner Balance,Hinds,1
+2017-10-20,Inner Balance,Hinds,2
+2017-11-02,Inner Balance,Hinds,1
+2017-11-09,Inner Balance,Hinds,2
+2017-11-10,Inner Balance,Hinds,2
+2017-12-01,Inner Balance,Hinds,3
+2017-12-22,Inner Balance,Hinds,1
+2018-01-02,Inner Balance,Hinds,2
+2018-01-04,Inner Balance,Hinds,1
+2018-01-09,Inner Balance,Hinds,1
+2018-01-11,Inner Balance,Hinds,1
+2018-01-19,Inner Balance,Hinds,1
+2018-02-09,Inner Balance,Hinds,1
+2018-02-16,Inner Balance,Hinds,1
+2018-02-22,Inner Balance,Hinds,2
+2018-02-27,Inner Balance,Hinds,1
+2018-03-02,Inner Balance,Hinds,1
+2018-03-14,Inner Balance,Hinds,2
+2018-03-20,Inner Balance,Hinds,1
+2018-03-22,Inner Balance,Hinds,1
+2018-03-23,Inner Balance,Hinds,1
+2018-03-27,Inner Balance,Hinds,3
+2018-03-28,Inner Balance,Hinds,1
+2018-03-29,Inner Balance,Hinds,2
+2018-03-30,Inner Balance,Hinds,1
+2018-04-05,Inner Balance,Hinds,1
+2018-04-11,Inner Balance,Hinds,1
+2018-04-13,Inner Balance,Hinds,1
+2018-04-16,Inner Balance,Hinds,1
+2018-04-23,Inner Balance,Hinds,1
+2018-04-30,Inner Balance,Hinds,1
+2018-04-13,Keti Med Cntr,Swain,12
+2018-04-16,Keti Med Cntr,Swain,7
+2018-04-18,Keti Med Cntr,Swain,2
+2018-04-23,Keti Med Cntr,Swain,5
+2018-04-30,Keti Med Cntr,Swain,8
+2017-10-04,Medi Clinic,Bireddy,1
+2017-08-03,Mediclinic,Bireddy,1
+2017-08-10,Mediclinic,Bireddy,3
+2017-08-16,Mediclinic,Bireddy,3
+2017-09-12,Mediclinic,Bireddy,1
+2017-09-14,Mediclinic,Bireddy,1
+2017-09-15,Mediclinic,Bireddy,2
+2017-09-18,Mediclinic,Bireddy,1
+2017-09-27,Mediclinic,Bireddy,1
+2018-01-31,Neuro Assisted,Ismirilian,2
+2018-02-02,Neuro Assisted,Izmarilian,1
+2018-02-07,Neuro Assisted,Izmarilian,3
+2018-02-13,Neuro Assisted,Izmarilian,2
+2018-02-22,Neuro Assisted,Izmarilian,1
+2018-02-26,Neuro Assisted,Izmarilian,1
+2018-03-07,Neuro Assisted,Izmarilian,2
+2018-03-19,Neuro Assisted,Izmarilian,1
+2018-03-29,Neuro Assisted,Izmarilian,2
+2018-04-02,Neuro Assisted,Izmarilian,1
+2018-04-23,Neuro Assisted,Izmarilian,2
+2017-02-16,Neurological Assoc.,"Chang, Marisa",1
+2017-02-23,Neurological Assoc.,"Chang, Marisa",1
+2017-03-17,Neurological Assoc.,"O'Conner, E",1
+2017-03-20,Neurological Assoc.,"Chang, Marisa",1
+2017-03-24,Neurological Assoc.,"Chang, Marisa",1
+2017-03-30,Neurological Assoc.,"Chang, Marisa",1
+2017-03-31,Neurological Assoc.,"Chang, Marisa",1
+2017-04-05,Neurological Assoc.,"Chang, Marisa",1
+2017-04-07,Neurological Assoc.,Jordan,3
+2017-04-12,Neurological Assoc.,"Chang, Marisa",1
+2017-04-14,Neurological Assoc.,Jordan,1
+2017-04-19,Neurological Assoc.,Jordan,1
+2017-04-20,Neurological Assoc.,"Chang, Marisa",1
+2017-04-21,Neurological Assoc.,Jordan,1
+2017-06-05,Neurological Assoc.,"Chang, Marisa",1
+2017-06-23,Neurological Assoc.,"Chang, Marisa",1
+2017-06-29,Neurological Assoc.,"Chang, Marisa",1
+2017-07-03,Neurological Assoc.,Jordan,3
+2017-07-11,Neurological Assoc.,Jordan,2
+2017-07-12,Neurological Assoc.,Jordan,3
+2017-07-13,Neurological Assoc.,Jordan,3
+2017-07-14,Neurological Assoc.,Jordan,3
+2017-07-19,Neurological Assoc.,"Chang, Marisa",1
+2017-07-19,Neurological Assoc.,Jordan,2
+2017-07-25,Neurological Assoc.,Jordan,1
+2017-08-23,Neurological Assoc.,"Chang, Marisa",1
+2017-09-14,Neurological Assoc.,"Chang, Marisa",1
+2017-10-05,Neurological Assoc.,"Chang, Marisa",2
+2017-11-06,Neurological Assoc.,"Chang, Marisa",1
+2017-12-11,Neurological Assoc.,"Chang, Marisa",1
+2018-01-19,Neurological Assoc.,"Chang, Marisa",1
+2018-02-05,Neurological Assoc.,"Chang, Marisa",1
+2018-02-06,Neurological Assoc.,"Chang, Marisa",1
+2018-02-07,Neurological Assoc.,"Chang, Marisa",1
+2018-02-16,Neurological Assoc.,"Chang, Marisa",1
+2018-02-19,Neurological Assoc.,"Chang, Marisa",1
+2018-02-26,Neurological Assoc.,"Chang, Marisa",2
+2018-02-28,Neurological Assoc.,"Chang, Marisa",1
+2018-03-01,Neurological Assoc.,"Chang, Marisa",1
+2018-03-05,Neurological Assoc.,"Chang, Marisa",1
+2018-04-24,Neurological Assoc.,"Chang, Marisa",1
+2018-01-23,New Tampa,De la Torre,4
+2018-02-26,New Tampa,De la Torre,2
+2018-02-28,New Tampa,De la Torre,2
+2018-03-01,New Tampa,De la Torre,1
+2018-03-02,New Tampa,De la Torre,2
+2018-03-06,New Tampa,De la Torre,11
+2018-03-07,New Tampa,De la Torre,2
+2018-03-09,New Tampa,De la Torre,7
+2018-03-12,New Tampa,De la Torre,1
+2018-03-13,New Tampa,De la Torre,14
+2018-03-14,New Tampa,De la Torre,1
+2018-03-20,New Tampa,De la Torre,8
+2018-03-21,New Tampa,De la Torre,3
+2018-03-26,New Tampa,De la Torre,17
+2018-03-27,New Tampa,De la Torre,3
+2018-03-29,New Tampa,De la Torre,10
+2018-03-30,New Tampa,De la Torre,1
+2018-04-03,New Tampa,De la Torre,4
+2018-04-04,New Tampa,De la Torre,3
+2018-04-05,New Tampa,De la Torre,1
+2018-04-06,New Tampa,De la Torre,3
+2018-04-09,New Tampa,De la Torre,4
+2018-04-12,New Tampa,De la Torre,7
+2018-04-16,New Tampa,De la Torre,5
+2018-04-17,New Tampa,De la Torre,4
+2018-04-18,New Tampa,De la Torre,1
+2018-04-19,New Tampa,De la Torre,2
+2018-04-23,New Tampa,De la Torre,7
+2018-04-25,New Tampa,De la Torre,2
+2018-04-26,New Tampa,De la Torre,4
+2018-04-27,New Tampa,De la Torre,5
+2018-05-04,New Tampa,De la Torre,8
+2017-07-13,O.P. Medical,"Spencer, R",11
+2017-07-14,O.P. Medical,"Spencer, R",1
+2017-07-18,O.P. Medical,"Spencer, R",13
+2017-07-25,O.P. Medical,"Spencer, R",18
+2017-07-28,O.P. Medical,"Spencer, R",1
+2017-08-01,O.P. Medical,"Spencer, R",14
+2017-08-04,O.P. Medical,"Spencer, R",1
+2017-08-07,O.P. Medical,"Spencer, R",1
+2017-08-08,O.P. Medical,"Spencer, R",17
+2017-08-15,O.P. Medical,"Spencer, R",16
+2017-08-18,O.P. Medical,"Spencer, R",1
+2017-08-22,O.P. Medical,"Spencer, R",19
+2017-08-23,O.P. Medical,"Spencer, R",12
+2017-08-29,O.P. Medical,Picchiello,1
+2017-08-29,O.P. Medical,"Spencer, R",17
+2017-09-06,O.P. Medical,"Spencer, R",24
+2017-09-07,O.P. Medical,"Spencer, R",1
+2017-09-15,O.P. Medical,"Spencer, R",18
+2017-09-21,O.P. Medical,"Spencer, R",18
+2017-09-26,O.P. Medical,"Spencer, R",17
+2017-09-29,O.P. Medical,"Spencer, R",3
+2017-10-03,O.P. Medical,"Spencer, R",25
+2017-10-10,O.P. Medical,"Spencer, R",17
+2017-10-11,O.P. Medical,"Spencer, R",8
+2017-10-17,O.P. Medical,"Spencer, R",12
+2017-10-24,O.P. Medical,"Spencer, R",20
+2017-10-31,O.P. Medical,"Spencer, R",20
+2017-11-07,O.P. Medical,"Spencer, R",17
+2017-11-08,O.P. Medical,"Spencer, R",8
+2017-11-14,O.P. Medical,"Spencer, R",21
+2017-11-21,O.P. Medical,"Spencer, R",17
+2017-11-28,O.P. Medical,"Spencer, R",19
+2017-12-05,O.P. Medical,"Spencer, R",28
+2017-12-12,O.P. Medical,"Spencer, R",21
+2017-12-19,O.P. Medical,"Spencer, R",23
+2017-12-20,O.P. Medical,"Spencer, R",1
+2017-12-28,O.P. Medical,"Spencer, R",40
+2018-01-09,O.P. Medical,"Spencer, R",22
+2018-01-16,O.P. Medical,"Spencer, R",13
+2018-01-17,O.P. Medical,"Spencer, R",8
+2018-01-23,O.P. Medical,"Spencer, R",18
+2018-01-24,O.P. Medical,"Spencer, R",5
+2018-01-30,O.P. Medical,"Spencer, R",20
+2018-02-02,O.P. Medical,"Spencer, R",14
+2018-02-06,O.P. Medical,"Spencer, R",7
+2018-02-13,O.P. Medical,Picchiello,2
+2018-02-13,O.P. Medical,"Spencer, R",17
+2018-02-16,O.P. Medical,Picchiello,2
+2018-02-16,O.P. Medical,"Spencer, R",3
+2018-02-20,O.P. Medical,"Spencer, R",16
+2018-02-27,O.P. Medical,"Spencer, R",16
+2018-03-06,O.P. Medical,"Spencer, R",27
+2018-03-09,O.P. Medical,"Spencer, R",4
+2018-03-13,O.P. Medical,"Spencer, R",14
+2018-03-16,O.P. Medical,"Spencer, R",27
+2018-03-23,O.P. Medical,"Spencer, R",4
+2018-03-27,O.P. Medical,"Spencer, R",18
+2018-04-03,O.P. Medical,"Spencer, R",18
+2018-04-06,O.P. Medical,"Spencer, R",10
+2018-04-10,O.P. Medical,"Spencer, R",13
+2018-04-13,O.P. Medical,"Spencer, R",7
+2018-04-17,O.P. Medical,"Spencer, R",20
+2018-04-20,O.P. Medical,Picchiello,6
+2018-04-23,O.P. Medical,"Spencer, R",1
+2018-05-02,O.P. Medical,Picchiello,4
+2018-05-02,O.P. Medical,"Spencer, R",32
+2018-05-04,O.P. Medical,Picchiello,7
+2018-03-23,Pacific Comp,"Chou, Stanley",1
+2018-04-23,Premier Choice,Maltobia,4
+2018-04-26,Premier Choice,Maltobia,7
+2018-01-29,Toledo Comp.,"Moghal, N.",1
+2018-02-20,Toledo Comp.,Escobar,1
+2018-02-26,Toledo Comp.,"Moghal, N.",2
+2018-02-28,Toledo Comp.,"Moghal, N.",2
+2018-03-07,Toledo Comp.,Escobar,1
+2018-03-07,Toledo Comp.,"Moghal, N.",1
+2018-03-19,Toledo Comp.,"Moghal, N.",1
+2018-03-20,Toledo Comp.,Escobar,1
+2018-03-20,Toledo Comp.,Wonnell-Chizar,1
+2018-03-22,Toledo Comp.,"Moghal, N.",2
+2018-03-22,Toledo Comp.,Wenzke,1
+2018-03-26,Toledo Comp.,"Martin,",1
+2018-03-26,Toledo Comp.,Wenzke,1
+2018-03-28,Toledo Comp.,"Martin,",1
+2018-04-05,Toledo Comp.,Kroncke,1
+2018-04-05,Toledo Comp.,"Martin,",1
+2018-04-09,Toledo Comp.,Wenzke,2
+2018-04-24,Toledo Comp.,Escobar,2
+2018-04-26,Toledo Comp.,Escobar,2
+2018-04-26,Toledo Comp.,"Martin,",1
+2018-04-27,Toledo Comp.,"Moghal, N.",1
+2018-04-27,Toledo Comp.,Wonnell-Chizar,1
+2018-05-01,Toledo Comp.,"Martin,",1
+2018-05-01,Toledo Comp.,Wonnell-Chizar,2
+2018-05-03,Toledo Comp.,"Martin,",1
+2018-05-03,Toledo Comp.,Weiss,1
+2018-05-07,Toledo Comp.,"Martin,",3
+2018-05-07,Toledo Comp.,Wenzke,1
+2016-09-07,University Pain,Chowdhari,124
+2016-09-09,University Pain,Chowdhari,2
+2016-09-21,University Pain,Chowdhari,96
+2016-09-22,University Pain,Chowdhari,68
+2016-09-23,University Pain,Chowdhari,36
+2016-10-20,University Pain,Chowdhari,49
+2016-10-24,University Pain,Chowdhari,1
+2016-10-31,University Pain,Chowdhari,36
+2016-11-01,University Pain,Chowdhari,68
+2016-11-07,University Pain,Chowdhari,50
+2016-11-17,University Pain,Chowdhari,50
+2016-11-29,University Pain,Chowdhari,108
+2016-12-01,University Pain,Chowdhari,97
+2016-12-08,University Pain,Chowdhari,64
+2016-12-12,University Pain,Chowdhari,111
+2016-12-30,University Pain,Chowdhari,52
+2017-01-04,University Pain,Chowdhari,127
+2017-01-16,University Pain,Chowdhari,153
+2017-01-20,University Pain,Chowdhari,55
+2017-01-30,University Pain,Chowdhari,104
+2017-02-06,University Pain,Chowdhari,109
+2017-02-13,University Pain,Chowdhari,51
+2017-02-23,University Pain,Chowdhari,44
+2018-04-04,Vida,"Cabrera, Jorge",1
+2018-02-22,Vida Health,"Cabrera, Jorge",1

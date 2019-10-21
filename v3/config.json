@@ -1,0 +1,19 @@
+{
+    "smtpserver":    "smtp.gmail.com",
+    "smtpport":      "587",
+    "smtplogon":     "don.laneve@gmail.com",
+    "smtppwd":       "19Ijctsily!83",
+    "from":          "Data Converter",
+    "recipient1":    "suelaneve@gmail.com",
+    "recipient2":    "don.laneve@gmail.com",
+    "subject":       "Status",
+    "body1":         "Dashboards have been updated",
+    "imapserver":    "imap.gmail.com",
+    "imapport":      "993",
+    "imaplogon":     "reports@gushealth.com",
+    "imappwd":	     "GusHealth!",
+    "imapfrom":      "tracy@apexlabmanagement.com",
+    "mail_chk_freq": "360",
+    "local_save_dir":"/home/pi/Sean/GusHealthData",
+    "attach_keyword": "MARIA" 	 	
+}
